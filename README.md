@@ -3,6 +3,8 @@ Software-Management-System
 
 Software and Software Licence Management System
 
+![alt tag](https://raw.githubusercontent.com/selvaismart/Software-Management-System/master/screenshot.jpg)
+
 DISCLAIMER
 ================================================================
     You, the user, accept the full responsibility for the usage of 
